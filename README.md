@@ -2,7 +2,7 @@
 
 ## 💬 About Me
 I'm Kabira a passionate tech enthusiast exploring the world of software development.
-I am a first-year engineering student eager to dive deep into computer science and software development.
+I am a Third-year engineering student eager to dive deep into computer science and software development.
 I love learning new technologies and building meaningful digital solutions.
 My current goals include becoming a full-stack developer and contributing to open-source projects.
 
